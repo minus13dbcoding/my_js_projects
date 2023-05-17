@@ -1,0 +1,30 @@
+#container {
+    background-color: darkblue;
+    border: 2px solid orange;
+    border-radius: 25px;
+    color: orange;
+    width: 400px;
+}
+
+#clockDisplay {
+    background-color: orange;
+    color: darkblue;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#buttons {
+    text-align: center;
+    margin: 10px;
+}
+
+#buttons button {
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid orange;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 75);
+    color: orange;
+}
